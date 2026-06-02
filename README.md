@@ -1,4 +1,4 @@
-# Hi there, I'm [Tera Naam Yahan Likhna] 👋
+# Hi there, I'm Harshit Sharma 👋
 ### B.Tech Student in AI & ML | Backend & AI Systems Developer
 
 An ambitious developer focusing on building end-to-end Artificial Intelligence and Machine Learning solutions tightly integrated with robust backend systems. Actively crafting scalable web applications and exploring intelligent automated systems.
@@ -30,4 +30,4 @@ An ambitious developer focusing on building end-to-end Artificial Intelligence a
 </p>
 
 - 💬 Ask me about **Flask, Database integration, and Computer Vision Pipelines**.
-- 🚀 Connect with me on [LinkedIn](TERA_LINKEDIN_LINK_YAHAN_DALNA).
+- 🚀 Connect with me on [LinkedIn]([TERA_LINKEDIN_LINK_YAHAN_DALNA](https://www.linkedin.com/in/harshit-sharma-mtr/)).
