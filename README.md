@@ -1,27 +1,33 @@
-# 👋 Hi, I'm Harshit Sharma
+# Hi there, I'm [Tera Naam Yahan Likhna] 👋
+### B.Tech Student in AI & ML | Backend & AI Systems Developer
 
-🎓 B.Tech CSE (AI & ML) Student  
-💻 Python | SQL | Data Engineering Enthusiast  
-🔍 Exploring AI, ML, and real-world data pipeline projects  
-🛠️ Tools: Python, Google Colab, Git, GitHub, SQL, Excel  
-📚 Learning from: IBM SkillsBuild, AICTE Internships, Open-Source  
-🌱 Currently building mini-projects to improve real-world problem-solving  
-📩 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshitsharma08)
+An ambitious developer focusing on building end-to-end Artificial Intelligence and Machine Learning solutions tightly integrated with robust backend systems. Actively crafting scalable web applications and exploring intelligent automated systems.
 
 ---
 
-## 📊 GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit-sharma08&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma08&layout=compact&theme=midnight-purple)
+### 🛠️ Tech Stack & Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Red?style=for-the-badge&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Artificial Intelligence](https://img.shields.io/badge/AI%20%26%20ML-Brain-darkgreen?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-YOLO-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Goals for 2025
-- ✅ Build 5+ real-world projects  
-- ✅ Complete multiple certified internships  
-- ✅ Learn & contribute to open-source  
-- ✅ Grow GitHub & LinkedIn profile
+### 🏅 Certifications & Achievements
+*   **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+*   Developed AI-driven assistive technology solutions for hackathons.
 
 ---
 
-Thanks for visiting! 🚀
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TERA_GITHUB_USERNAME]&show_icons=true&theme=gotham&count_private=true" alt="GitHub Stats" />
+</p>
+
+- 💬 Ask me about **Flask, Database integration, and Computer Vision Pipelines**.
+- 🚀 Connect with me on [LinkedIn](TERA_LINKEDIN_LINK_YAHAN_DALNA).
