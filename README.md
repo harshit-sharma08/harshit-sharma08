@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open-Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=softTab&color=gradient&customColorList=30,4,45&height=180&section=header&text=Harshit%20Sharma&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20&%20ML%20Engineer%20%7C%20Open-Source%20Contributor&descAlignY=62&descSize=15" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+systems+%F0%9F%A4%96;Full-Stack+Dev+%7C+React+%2B+Node.js+%2B+Python;Exploring+DSA+%2B+Computer+Networks;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+systems+%F0%9F%A4%96;Full-Stack+Dev+%7C+React+%2B+Node.js+%2B+Python;Exploring+DSA+%2B+Computer+Networks;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 - 🔭 Currently building an **Agentic AI project** & diving deep into real-time chat system architecture (think WhatsApp-scale)
 - 🌱 Learning **Advanced Java + DSA**, Computer Networks, and 3rd-generation Agentic AI
-- 🚀 Built **[Orion](https://github.com/harshit-sharma08/Orion-)** — a Job Assistance Platform with Job Finder, ATS Score Checker & CodeBotAI
+- 🚀 Built **[PanicAi](https://github.com/harshit-sharma08/PanicAi)** — An advanced AI-driven platform tailored for intelligent automation and decision making.
 - 🤝 Looking to collaborate on **GSoC 2026** and ML model optimization
 - 💬 Ask me about **React, Node.js, Python, or combining AI models with web apps**
 - 📫 Reach me at **sharmaharshit000001@gmail.com**
@@ -67,7 +67,7 @@
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logicColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -102,6 +102,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=softTab&color=gradient&customColorList=30,4,45&height=100&section=footer" width="100%"/>
 
 </div>
