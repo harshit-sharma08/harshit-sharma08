@@ -9,126 +9,85 @@ Show Image
 Show Image
 </div>
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df1d4bbbe58ac2b3b27028a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
-> whoami
-bashName     : Harshit Sharma
-Role     : Full-Stack Developer & AI Engineer
-Location : India 🇮🇳
-Status   : Building something epic 🔭
+e](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshit-sharma-mtr)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshit-sharma-mtr)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@harshit-sharma-mtr)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshit-sharma-mtr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshit-sharma-mtr)
 
-🔭 Architecting an Agentic AI platform + WhatsApp-scale real-time chat system
-🌱 Deep-diving into Advanced Java + DSA, Computer Networks & 3rd-gen AI agents
-🚀 Creator of Orion — AI-powered Job Platform (ATS checker + CodeBotAI)
-🤝 Actively looking to contribute to GSoC 2026 & ML optimization projects
-⚡ I turn cutting-edge AI papers into working demos — research to reality
-📫 Hit me up: sharmaharshit000001@gmail.com
-
-<br clear="right"/>
-
-> ./connect.sh
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 </div>
 
-> cat tech_stack.json
-<details open>
-<summary><b>🖥️ Frontend</b></summary>
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</details>
-<details open>
-<summary><b>⚙️ Backend & Languages</b></summary>
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</details>
-<details open>
-<summary><b>🤖 AI / ML</b></summary>
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</details>
-<details open>
-<summary><b>☁️ Databases & Cloud & DevOps</b></summary>
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</details>
+---
 
-> git log --stat
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Languages**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshit-sharma08&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma08&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-sharma08&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888" width="65%"/>
-</div>
-<div align="center">
-Show Image
-</div>
 
-> ls -la /projects
-<div align="center">
-Show Image
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=harshit-sharma-mtr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma-mtr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-💡 Orion — AI-powered Job Assistance Platform with Job Finder, ATS Score Checker & CodeBotAI. Built with React + Node.js + Python AI pipelines.
-
-
-> cat goals_2025.txt
-[ ] GSoC 2026 — shortlisted & contributing
-[~] Agentic AI platform — in progress 🔥
-[~] WhatsApp-scale chat system — designing 📐
-[ ] ML model optimization — researching 🧠
-[x] Orion — shipped ✅
-
-> fortune | cowsay
-<div align="center">
- ________________________________________
-< Code. Break. Fix. Learn. Ship. Repeat. >
- ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-"The best way to predict the future is to build it."
 </div>
 
 <div align="center">
-> uptime
-Show Image
-Show Image
-Show Image
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=100&section=footer&text=Let's+Build+Together!&fontSize=20&fontColor=00ff88&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-sharma-mtr&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>gnY=70" width="100%"/>
 </div>
