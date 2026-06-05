@@ -1,19 +1,34 @@
 <div align="center">
-<!-- Animated header -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Harshit%20Sharma&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Agentic%20AI%20Builder%20%7C%20Open-Source&descAlignY=58&descSize=15&stroke=00ff88&strokeWidth=1" width="100%"/>
-<!-- Typing animation -->
-Show Image
-<br/>
-<!-- Profile views & followers badges -->
-Show Image
-Show Image
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ff88&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+systems+%F0%9F%A4%96;Full-Stack+Dev+%7C+React+%2B+Node.js+%2B+Python;Exploring+DSA+%2B+Computer+Networks;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-e](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshit-sharma-mtr)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshit-sharma-mtr)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@harshit-sharma-mtr)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshit-sharma-mtr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshit-sharma-mtr)
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building an **Agentic AI project** & diving deep into real-time chat system architecture (think WhatsApp-scale)
+- 🌱 Learning **Advanced Java + DSA**, Computer Networks, and 3rd-generation Agentic AI
+- 🚀 Built **[PanicAi](https://github.com/harshit-sharma08/PanicAi)** — An advanced AI-driven platform tailored for intelligent automation and decision making.
+- 🤝 Looking to collaborate on **GSoC 2026** and ML model optimization
+- 💬 Ask me about **React, Node.js, Python, or combining AI models with web apps**
+- 📫 Reach me at **sharmaharshit000001@gmail.com**
+- ⚡ Fun fact: I love turning cutting-edge AI research into real-world demos & open-source projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-sharma-mtr/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshit-sharma08)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@harshit-sharma08)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshit-sharma08)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshit-sharma08)
 
 </div>
 
@@ -72,14 +87,14 @@ e](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshit-sharma-mtr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma-mtr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshit-sharma08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma08&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-sharma-mtr&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-sharma08&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -87,7 +102,6 @@ e](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff88,100:0d1117&height=100&section=footer" width="100%"/>
 
-</div>gnY=70" width="100%"/>
 </div>
