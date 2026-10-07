@@ -12,7 +12,7 @@
 
 - 🔭 Currently building an **Agentic AI project** & diving deep into real-time chat system architecture (think WhatsApp-scale)
 - 🌱 Learning **Advanced Java + DSA**, Computer Networks, and 3rd-generation Agentic AI
-- 🚀 Built **[PanicAi](https://github.com/harshit-sharma08/PanicAi)** — An advanced AI-driven platform tailored for intelligent automation and decision making.
+- 🚀 Built **[PanicAi](https://github.com/harshit-sharma08/PanicAi)** — An advanced AI-driven platform tailored for intelligent automation and decision making..
 - 🤝 Looking to collaborate on **GSoC 2026** and ML model optimization
 - 💬 Ask me about **React, Node.js, Python, or combining AI models with web apps**
 - 📫 Reach me at **sharmaharshit000001@gmail.com**
